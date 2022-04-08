@@ -89,7 +89,6 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 ### Turkish
 
 - [BTK Academy](https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569#!/about) blockchain and cryptocurrency-focused course in Turkish.
-- 
 
 ### Vietnamese
 
